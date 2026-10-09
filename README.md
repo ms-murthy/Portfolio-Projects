@@ -14,6 +14,20 @@ All agents use `gpt-5-mini`, pass Pydantic models between each other, and share 
 question -> Researcher -> Analyst -> Writer -> report
 ```
 
+## Screenshots
+
+**Question page**: type a question or pick an example; live status cards show each agent working.
+
+![Question page with live agent status](docs/screenshots/02-running.png)
+
+**Report page**: summary, full report, time per agent, follow-up questions, sources and a markdown download.
+
+![Report page](docs/screenshots/03-report.png)
+
+**Research page**: the Researcher's sourced facts. The Analyst and Writer pages work the same way.
+
+![Research page](docs/screenshots/04-research.png)
+
 ## Files
 
 | File | Purpose |
