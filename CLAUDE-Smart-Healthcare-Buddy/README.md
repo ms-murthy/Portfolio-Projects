@@ -26,3 +26,15 @@ Claude Code writes everything else: `src/`, `scripts/`, `tests/`, the vector sto
 | `.gitignore` | Keeps `.env`, `.venv`, `chroma_db` and outputs out of git |
 
 **Do not edit or delete `CLAUDE.md`, `.claude/settings.json` or the hook.** They are the credential guard.
+
+## Screenshots
+
+Run with `streamlit run streamlit_app.py`.
+
+| Step | Screenshot |
+|---|---|
+| 1. Ask a question | ![Ask](Screenshots/01-ask-question.png) |
+| 2. Checkpoint 2 - answer review | ![Answer review](Screenshots/02-answer-review.png) |
+| 3. Result, one department | ![Single department](Screenshots/03-result-single-department.png) |
+| 4. Checkpoint 1 - route review (several departments) | ![Route review](Screenshots/04-route-review.png) |
+| 5. Result, two departments | ![Multi department](Screenshots/05-result-multi-department.png) |
