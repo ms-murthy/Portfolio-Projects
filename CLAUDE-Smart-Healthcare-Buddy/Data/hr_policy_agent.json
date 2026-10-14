@@ -1,0 +1,102 @@
+[
+  {
+    "department": "hr_policy",
+    "topic": "paid_time_off_request_and_approval",
+    "content": "Paid time off requests generally require employees to submit the requested dates through the approved leave or workforce system and provide reasonable advance notice when the absence is foreseeable. The manager reviews staffing needs, overlapping absences, operational coverage, and applicable policy requirements before approving or declining the request. The record should clearly distinguish general PTO procedures from the organization’s actual accrual rates, carryover limits, blackout dates, and approval deadlines, which must be confirmed in the current applicable policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "paid_time_off_accrual_and_carryover",
+    "content": "PTO may be granted through periodic accrual, an annual allocation, or another approved method. A PTO policy commonly explains when accrual begins, whether balances are prorated, maximum accumulation limits, carryover treatment, and what happens when employment status changes. These rules can vary by employee classification and work location. Exact accrual amounts, carryover limits, forfeiture rules, and statutory requirements must be verified against the current authoritative policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "parental_and_family_leave",
+    "content": "Parental and family leave guidance generally addresses qualifying events, eligible employees, notice requirements, supporting documentation, coordination with other leave programs, benefits continuation, and return-to-work expectations. Employees should notify the designated HR channel as early as practical so eligibility and scheduling can be reviewed. The applicable policy and local requirements determine the actual duration, paid or unpaid status, eligibility waiting periods, and documentation standards."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "sick_leave_and_absence_reporting",
+    "content": "Sick leave procedures generally require employees to notify their manager or designated absence-reporting channel as soon as they know they cannot work. The employee may need to record the absence in the approved system and provide documentation when permitted by policy or applicable law. Medical details should be shared only through authorized confidential processes. Exact notification deadlines, documentation thresholds, and available leave balances must be confirmed using the applicable policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "benefits_enrollment_and_qualifying_events",
+    "content": "Benefits enrollment normally occurs during an initial eligibility period, an annual enrollment window, or a qualifying life event. Employees may need to review plan options, add eligible dependents, submit elections, and provide supporting documents within the applicable timeframe. Marriage, birth, adoption, loss of other coverage, or similar events may trigger a special enrollment process where permitted. Exact plans, deadlines, dependent rules, and effective dates must be confirmed through the current benefits materials."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "workplace_accommodation_process",
+    "content": "An employee seeking a workplace accommodation should contact the designated HR or accommodation channel and explain the work-related limitation or assistance requested without unnecessarily disclosing private medical details to a manager. The organization may conduct an interactive review to understand essential job functions, possible adjustments, operational considerations, and supporting documentation requirements. Decisions should be handled confidentially and consistently with applicable law and policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "anti_harassment_and_non_retaliation",
+    "content": "Anti-harassment policies generally prohibit unwelcome conduct connected to protected characteristics and may also prohibit bullying, intimidation, or other unacceptable workplace behavior. Employees can raise concerns through designated management, HR, ethics, or reporting channels. Retaliation for making a good-faith report or participating in a review is generally prohibited. Reports should be handled promptly and discreetly, while confidentiality cannot always be guaranteed because fact-finding may be necessary."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "code_of_conduct_and_conflicts_of_interest",
+    "content": "A code of conduct generally requires employees to act honestly, protect organizational resources, disclose relevant conflicts, and avoid using their position for improper personal benefit. A potential conflict may involve outside employment, financial interests, personal relationships, gifts, or supplier interactions that could affect business judgment. Employees should disclose concerns through the approved process and follow any mitigation instructions. Specific disclosure thresholds and approval requirements depend on the applicable code."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "flexible_and_remote_work",
+    "content": "Flexible or remote work arrangements commonly require a documented agreement covering work location, availability, communication, performance expectations, information security, equipment, and business coverage. Approval may depend on job duties, operational requirements, local rules, and manager review. Remote work does not remove obligations relating to confidentiality, timekeeping, workplace conduct, or secure handling of organizational information. The current flexible-work policy determines eligibility and review requirements."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "performance_management_and_reviews",
+    "content": "Performance management generally includes setting role expectations, defining measurable goals, providing ongoing feedback, documenting performance discussions, and conducting periodic reviews. Employees should understand performance standards, development opportunities, and how concerns are escalated. Formal corrective action should be consistent, documented, and handled through approved HR procedures. Review cycles, rating methods, improvement-plan duration, and appeal processes must be confirmed from current policy materials."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "employee_data_privacy",
+    "content": "Employee information should be collected, accessed, used, stored, and shared only for legitimate authorized purposes. Sensitive personnel, compensation, health, identification, and investigation information should be restricted to personnel with a business need and appropriate permission. Employees should use approved systems and avoid sending confidential records through unsecured channels. Retention, access requests, disclosure rules, and local privacy requirements depend on the applicable privacy policy and law."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "acceptable_use_of_technology",
+    "content": "Acceptable-use policies generally require employees to use organizational systems responsibly, protect credentials, avoid unauthorized software, prevent misuse of information, and report suspected security incidents. Organizational systems may be monitored in accordance with applicable notices and requirements. Employees should not upload confidential or personal information to unapproved applications, including external AI tools. Specific prohibited activities and monitoring practices must be confirmed in the current technology policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "travel_and_expense_reimbursement",
+    "content": "Business travel and expense procedures commonly require prior approval, use of approved booking channels, reasonable spending, itemized receipts, accurate business purpose descriptions, and timely submission through the expense system. Expenses may be reviewed for policy compliance before reimbursement. Exceptions should be documented and approved by the designated authority. Reimbursement rates, submission deadlines, allowable categories, and international requirements must be verified against the current expense policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "employee_grievance_and_reporting_channels",
+    "content": "Employees with workplace concerns should use the reporting channel appropriate to the issue, such as a manager, HR representative, ethics office, compliance channel, or confidential reporting service. A report should describe relevant facts, dates, participants, and available supporting evidence without unnecessary speculation. The receiving function determines the appropriate review and escalation path. Employees should not promise confidentiality or outcomes when reporting on behalf of others."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "mandatory_training_and_policy_acknowledgement",
+    "content": "Mandatory training and policy acknowledgements help confirm that employees understand important workplace, compliance, safety, privacy, and security expectations. Employees are generally responsible for completing assigned courses and reviewing updated policies within the communicated timeframe. Completion records may be retained for compliance purposes. The specific courses, due dates, renewal frequency, and consequences of non-completion must be obtained from the current training schedule or policy notice."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "employee_onboarding_and_offboarding",
+    "content": "Onboarding commonly includes identity and employment verification, required forms, orientation, system access, policy acknowledgements, training, and role-specific setup. Offboarding commonly includes access removal, return of equipment, final administrative steps, confidentiality reminders, and transfer of work responsibilities. Access should be granted or removed according to role and approved workflow. Exact checklists and timing are controlled by current HR, security, and operational procedures."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "career_development_and_internal_mobility",
+    "content": "Career development may include learning resources, mentoring, skills assessments, development plans, and manager-supported growth discussions. Internal mobility processes commonly require employees to review role qualifications, apply through the approved system, and coordinate transitions without disrupting business responsibilities. Eligibility, manager notification, transfer timing, and approval requirements vary by internal policy and position."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "workplace_health_safety_and_incident_reporting",
+    "content": "Employees should report workplace injuries, hazards, unsafe conditions, and security or safety incidents promptly through the designated reporting channel. Reports should include factual details about what happened, where it occurred, and whether immediate assistance is needed. Employees should follow emergency instructions and avoid altering evidence when an investigation may be required. Reporting obligations and response procedures depend on the location and applicable safety policy."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "employee_resource_groups_and_inclusion",
+    "content": "Employee resource groups generally support community, professional development, education, and inclusion around shared interests or experiences. Groups should operate consistently with organizational conduct, non-discrimination, funding, event, and information-handling requirements. Participation should be voluntary and respectful. Sponsorship, budget approval, branding, and event procedures depend on the applicable internal program guidance."
+  },
+  {
+    "department": "hr_policy",
+    "topic": "approved_ai_use_by_employees",
+    "content": "Employees using AI tools should use only approved services and follow requirements for confidentiality, personal information, intellectual property, accuracy, human review, and records management. Confidential employee, customer, supplier, financial, or regulated information should not be entered into an unapproved tool. AI-generated material should be reviewed before use because it may contain errors, unsupported statements, or biased output. Current technology and data-handling policies control permitted use."
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "department": "finance_reporting",
+    "topic": "budget_vs_actual_reporting",
+    "content": "Budget-versus-actual reporting compares approved budget amounts with recorded actual results for a defined period and reporting dimension. A useful report shows budget, actuals, absolute variance, and percentage variance, with clear treatment of favorable and unfavorable results. The query should specify the fiscal period, organizational dimension, account scope, and whether committed costs are included."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "operating_expense_by_cost_center",
+    "content": "Operating expense reporting by cost center aggregates approved expense transactions or summarized finance records by organizational cost center. Common output fields include cost center, account category, reporting period, actual expense, budget, and variance. The report should use the organization’s approved expense definitions and exclude restricted employee-level or unrelated sensitive information."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "vendor_spend_analysis",
+    "content": "Vendor spend analysis summarizes financial transactions by supplier, category, department, business unit, or reporting period. It can help identify concentration, recurring costs, purchasing patterns, and opportunities for review. The query should define whether the analysis includes invoices, purchase orders, payments, commitments, taxes, credits, or only posted accounting transactions."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "accounts_payable_aging",
+    "content": "Accounts payable aging classifies unpaid supplier invoices according to age, usually using invoice date or due date as the reference. Reports commonly include supplier, invoice count, outstanding amount, aging bucket, due date, and payment status. The reporting logic should clearly identify the aging basis and exclude unauthorized payment details or sensitive banking information."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "cash_disbursement_reporting",
+    "content": "Cash disbursement reporting summarizes payments made during a specified period by payment date, supplier, business unit, payment method, account, or category. A reliable report should distinguish issued payments from cleared payments and identify reversals or voids when relevant. Access should be limited because payment records may contain sensitive financial and banking information."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "general_ledger_activity",
+    "content": "General ledger activity reporting summarizes posted accounting entries by account, entity, cost center, period, debit, credit, and journal reference. Users should specify whether they need transaction-level detail, account balances, or summarized activity. Reports should use posted and approved records according to the organization’s accounting close rules."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "financial_close_status",
+    "content": "Financial close reporting tracks required close activities, responsible teams, completion status, due dates, unresolved issues, and dependencies. A close dashboard should distinguish completed, in-progress, blocked, and overdue tasks and identify items that could affect reporting accuracy or timeliness. Access should be limited to authorized finance users."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "forecast_accuracy",
+    "content": "Forecast accuracy analysis compares forecasted financial values with actual results for the same metric and period. Common measures include absolute variance, percentage variance, bias, and trend over multiple periods. The analysis should document whether the forecast was the original, latest approved, or revised version and should account for changes in scope or assumptions."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "capital_expenditure_reporting",
+    "content": "Capital expenditure reporting summarizes approved, committed, and actual spending for capital projects or asset categories. Useful dimensions include project, asset class, department, legal entity, period, budget, actuals, commitments, and remaining budget. The report should distinguish capitalizable costs from operating expenses according to approved accounting guidance."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "accounts_receivable_aging",
+    "content": "Accounts receivable aging summarizes outstanding customer or business-unit balances according to invoice age or due date. Typical fields include customer group, invoice count, outstanding amount, aging bucket, due date, and collection status. The report should use authorized aggregated data when detailed customer information is not required."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "expense_trend_analysis",
+    "content": "Expense trend analysis compares spending across periods to identify increases, decreases, seasonality, unusual movements, and recurring patterns. The query should define the expense population, date range, comparison basis, organizational dimensions, and treatment of one-time items. Significant movements should be investigated using approved source records rather than assumed explanations."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "purchase_order_commitments",
+    "content": "Purchase order commitment reporting summarizes approved but not yet invoiced or paid obligations. Common fields include purchase order number, supplier, cost center, approved value, invoiced amount, remaining commitment, status, and expected delivery period. The report should clearly distinguish commitments from actual posted expenses."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "budget_utilization",
+    "content": "Budget utilization measures the portion of an approved budget that has been spent or committed. A useful calculation identifies approved budget, actual spending, commitments, available balance, and utilization percentage. The report should state whether utilization includes only actuals or both actuals and open commitments."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "subscription_and_recurring_spend",
+    "content": "Subscription spend reporting summarizes recurring software, service, or membership costs by supplier, department, contract, renewal period, and annualized value. Useful analysis may identify upcoming renewals, duplicate services, inactive subscriptions, and changes in recurring spend. Contract and supplier details should be accessed only by authorized users."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "prepaid_expense_amortization",
+    "content": "Prepaid expense reporting tracks amounts paid in advance and the schedule for recognizing those amounts as expenses. Common fields include prepaid account, original amount, service period, recognized amount, remaining balance, and amortization period. The report should follow approved accounting treatment and identify unusual balances for review."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "intercompany_reconciliation",
+    "content": "Intercompany reporting compares balances and transactions between related entities to identify mismatches requiring reconciliation. Useful fields include sending entity, receiving entity, account, period, transaction amount, counterparty reference, and reconciliation status. Reports should distinguish recorded balances from confirmed matched amounts."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "operating_margin_analysis",
+    "content": "Operating margin analysis compares operating income with revenue for a defined entity, business unit, segment, or period. The calculation should use consistent revenue and operating expense definitions and explain whether unusual or non-recurring items are included. Results should be presented with the reporting period and accounting basis."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "duplicate_invoice_detection",
+    "content": "Duplicate invoice analysis compares invoice identifiers and related attributes such as supplier, amount, invoice date, purchase order, currency, and line items to identify possible duplicate submissions. Potential matches require review because legitimate invoices may share vendors, amounts, or recurring descriptions. The analysis should not automatically alter payment records."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "financial_data_quality_and_reconciliation",
+    "content": "Finance data quality checks may identify missing values, invalid account mappings, duplicate records, inconsistent dates, unmatched totals, and differences between source systems and reporting summaries. A quality report should identify the affected dataset, validation rule, exception count, and reconciliation status without modifying source data."
+  },
+  {
+    "department": "finance_reporting",
+    "topic": "read_only_finance_sql",
+    "content": "Finance reporting SQL should retrieve information from authorized read-only views using SELECT statements, filters, joins approved for the reporting model, aggregations, grouping, sorting, and date restrictions. Queries should not modify data or access credentials, private employee records, medical information, or unrelated systems. The requested metric and reporting period should be clarified when ambiguous."
+  }
+]

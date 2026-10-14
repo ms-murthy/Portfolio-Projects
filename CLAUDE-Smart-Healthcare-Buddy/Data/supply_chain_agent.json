@@ -1,0 +1,102 @@
+[
+  {
+    "department": "supply_chain",
+    "topic": "supplier_contract_review",
+    "content": "A supplier contract review should examine the parties, scope of goods or services, specifications, pricing, payment terms, delivery obligations, acceptance criteria, warranties, service levels, liability, indemnification, confidentiality, data protection, intellectual property, audit rights, termination, dispute resolution, and governing law. Reviewers should compare the proposed language with business requirements and identify unclear, one-sided, missing, or operationally difficult provisions before approval."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_due_diligence",
+    "content": "Supplier due diligence evaluates whether a supplier is legitimate, financially stable, operationally capable, compliant, and appropriate for the proposed relationship. Common checks include ownership, sanctions and restricted-party screening, regulatory history, insurance, cybersecurity, financial information, references, business continuity, and conflicts of interest. The depth of review should reflect the supplier’s criticality, access to data, geographic exposure, and risk profile."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_onboarding",
+    "content": "Supplier onboarding generally requires validated legal identity, tax and payment information, approved banking details, business contacts, compliance attestations, risk classification, contract documentation, and authorized approval. Banking changes should be independently verified through a trusted channel to reduce fraud risk. Suppliers should not receive purchase orders or system access until required onboarding and approval steps are complete."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "confidentiality_and_information_sharing",
+    "content": "Supplier confidentiality provisions should identify protected information, permitted purposes, authorized recipients, security expectations, exclusions, compelled disclosure procedures, duration, and return or destruction obligations. Information shared with a supplier should be limited to what is necessary for the engagement. Additional controls may be required when information includes personal data, proprietary material, regulated information, or security-sensitive details."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_data_protection",
+    "content": "When a supplier processes personal or confidential information, the agreement and onboarding process should address permitted processing, security controls, access restrictions, incident notification, subcontractors, retention, deletion or return, audit cooperation, and cross-border transfers where relevant. Privacy and security reviewers should confirm that the proposed controls match the information involved and applicable requirements."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_service_levels",
+    "content": "Service-level provisions translate operational expectations into measurable commitments such as delivery timing, availability, response time, defect rates, resolution targets, reporting, and escalation. A useful service-level agreement also defines measurement methods, exclusions, remedies, service credits where appropriate, and consequences for repeated failures. Metrics should be practical to monitor and tied to business-critical outcomes."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_quality_and_acceptance",
+    "content": "Supplier quality terms should define product or service specifications, inspection rights, testing, acceptance criteria, defect notification, corrective action, replacement, rework, and documentation. Acceptance should not be left ambiguous when quality or regulatory performance is important. The business owner should identify who can accept deliverables and how unresolved quality issues affect payment or future orders."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_liability_and_indemnification",
+    "content": "Liability and indemnification provisions allocate responsibility for losses arising from issues such as bodily injury, property damage, intellectual property infringement, confidentiality breaches, data incidents, regulatory violations, or supplier negligence. Reviewers should examine caps, exclusions, carve-outs, insurance alignment, and whether the allocation matches the actual risk. Material deviations should be escalated for qualified legal review."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_insurance_requirements",
+    "content": "Insurance requirements should reflect the supplier’s activities and the potential consequences of failure. Depending on the engagement, coverage may include general liability, professional liability, cyber insurance, product liability, automobile liability, workers’ compensation, or other specialized coverage. The organization should verify evidence of coverage, limits, exclusions, policy periods, and notification obligations where required."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_termination_and_transition",
+    "content": "Termination provisions should address termination for cause, termination for convenience where applicable, notice, cure periods, outstanding payments, return of property and information, transition assistance, continued support, data deletion, and treatment of open orders. Critical suppliers may require a documented transition plan to avoid service interruption after termination."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_business_continuity",
+    "content": "Business continuity reviews assess whether a supplier can maintain or restore critical services during disruptions. Relevant controls include continuity plans, disaster recovery, alternate facilities, backup suppliers, recovery objectives, testing, incident communication, and dependency mapping. Critical suppliers should provide enough evidence to support the organization’s continuity and resilience requirements."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "subcontractor_management",
+    "content": "A supplier using subcontractors should disclose relevant subcontractors and remain responsible for their performance. Contract terms may require prior approval, flow-down of confidentiality, security, compliance, and quality obligations, and notification of material changes. The organization should understand where services are performed and which parties can access information or deliver critical activities."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "anti_corruption_and_supplier_gifts",
+    "content": "Supplier relationships should be managed consistently with anti-bribery, conflict-of-interest, gifts, entertainment, and government-interaction requirements. Red flags include unusual payments, personal benefits, requests for cash, unexplained intermediaries, and gifts connected to purchasing decisions. Employees should disclose concerns and seek compliance guidance rather than approving questionable benefits."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "purchase_orders_and_contract_precedence",
+    "content": "Purchase orders should identify the approved supplier, goods or services, quantities, prices, delivery requirements, and authorized terms. The relationship between the purchase order, master agreement, statement of work, and supplier terms should be clear. A precedence clause can reduce disputes by specifying which document controls if terms conflict."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "pricing_and_change_control",
+    "content": "Pricing provisions should explain rates, price validity, adjustments, supporting evidence, notice, approval, taxes, and treatment of unexpected costs. Changes to scope, quantities, timelines, or deliverables should be documented through an authorized change order before implementation. Informal changes can create budget, delivery, and contractual disputes."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "supplier_audit_rights",
+    "content": "Audit rights may allow review of records relevant to billing, compliance, service performance, security, quality, or regulatory obligations. The clause should define scope, notice, frequency, confidentiality, costs, access limitations, and remediation expectations. Audit rights should be proportionate to the risk and should protect unrelated supplier information."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "product_recall_and_corrective_action",
+    "content": "Product recall provisions should define how suspected defects are reported, investigated, contained, communicated, and corrected. They may address customer notifications, regulatory coordination, replacement or repair, inventory handling, traceability, reimbursement, and allocation of recall costs. Clear escalation contacts and response expectations are especially important for safety-sensitive products."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "ethical_sourcing_and_supplier_code",
+    "content": "Ethical sourcing requirements may cover labor conditions, forced labor, child labor, discrimination, wages, working hours, health and safety, environmental practices, and responsible mineral or material sourcing. Supplier codes should be communicated, acknowledged, monitored, and supported by remediation processes. Higher-risk suppliers may require additional assessments or evidence."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "software_and_technology_supplier_risk",
+    "content": "Technology supplier reviews should consider licensing, data processing, cybersecurity, service availability, integrations, intellectual property, support, subcontractors, vulnerability management, incident response, exit assistance, and data return or deletion. Security, privacy, procurement, and legal stakeholders should assess the supplier according to the sensitivity and criticality of the service."
+  },
+  {
+    "department": "supply_chain",
+    "topic": "legal_escalation_for_supplier_matters",
+    "content": "Supplier matters should be escalated when they involve material liability, unusual indemnities, regulatory exposure, personal or sensitive information, intellectual property ownership, cross-border obligations, government entities, significant service dependency, disputes, or non-standard contract language. Procurement and business teams should identify the issue clearly and provide the relevant agreement and facts to qualified legal or compliance reviewers."
+  }
+]
